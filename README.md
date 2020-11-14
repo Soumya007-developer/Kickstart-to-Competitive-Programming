@@ -85,5 +85,5 @@ One stop for all mathematical , geometrical and their applications in problem-so
         - Radix Sort
     - Binary Search
     - Linear Search
-    - Kardane's Algorithm
+    - Kadane's Algorithm
     -Greedy algorithm
