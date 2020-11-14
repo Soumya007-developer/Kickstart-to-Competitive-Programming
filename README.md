@@ -1,4 +1,4 @@
-# Kickstart-to-Competitive-Programming for SWE(National & Internationa) Internships 2021
+# Kickstart-to-Competitive-Programming for SWE(National & International) Internships 2021
 One stop for all mathematical , geometrical and their applications in problem-solving. This repository will also cover major concepts of C++ for getting a good grasp.
 ## What we will cover?
 1. Introduction to why algorithms are important and why they are important part in all major contests worldwide.
@@ -10,11 +10,12 @@ One stop for all mathematical , geometrical and their applications in problem-so
     - Estimating if a problem will run on our coding style
     - Estimated complexity we require to build solution
 4. The approach for problem solving will strictly follow the following order:
-   -Hackerblocks & Hackerrank
-   -Geeks For Geeks(Previous year questions of various SWE internships)
-   -Codechef
-   -ICPC previous Contests(For better grasp on algorithms)
-   -Codeforces
+     - Platforms
+        - Hackerblocks and Hackerrank
+        - GeeksForGeeks (For previous year questions from various SWE Internships)
+        - Codechef
+        - ICPC Contests and prev. years US Olympiad problems(For better grasp on algoritms)
+        - Coderforces(Div3>Div2..)
 5. Algorithm paradigms
    - Brute force
    - Divide and Conquer
