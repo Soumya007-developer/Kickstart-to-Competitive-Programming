@@ -1,4 +1,4 @@
-# Kickstart-to-Competitive-Programming for SWE(National & International) Internships 2021
+# Kickstart-to-Competitive-Programming for SWE( National & International ) Internships 2021
 One stop for all mathematical , geometrical and their applications in problem-solving. This repository will also cover major concepts of C++ for getting a good grasp.
 ## What we will cover?
 1. Introduction to why algorithms are important and why they are important part in all major contests worldwide.
