@@ -60,12 +60,13 @@ One stop for all mathematical , geometrical and their applications in problem-so
         - Will be done before BFS traversal
     - Trie
 7. Mathematics
+    - Cominatorics
     - Euclid's GCD
-    -Mobius function
+    - Mobius function
     - Prime Numbers
     - Sieve of Eratosthene
     - Golbach Conjecture
-    - Will add on as I remember
+    - Will add on as I remember...
 8. Standard Template Library for C++ coders
     - Vectors
     - Set
