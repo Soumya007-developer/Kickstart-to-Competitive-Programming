@@ -1,5 +1,10 @@
 # Kickstart-to-Competitive-Programming for SWE( National & International ) Internships 2021
 One stop for all mathematical , geometrical and their applications in problem-solving and understanding of the algorithms.This repository will also cover major concepts of C++ for getting a good grasp.
+## Contributing
+
+Please kindly follow [Contribution.md](Contribution.md) to get started.
+
+You can also contribute by sharing! 
 ## What we will cover?
 1. Introduction to why algorithms are important and why they are important part in all major contests worldwide.
 2. Big-O, Big-theta, Big-Ohmega Notations this includes time complexity and space complexity and also way to avoid tle error in program
