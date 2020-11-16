@@ -9,7 +9,7 @@ Please kindly follow [Contribution.md](Contribution.md) to get started.
 You can also contribute by sharing! 
 ## What we will cover?
 1. Introduction to why algorithms are important and why they are important part in all major contests worldwide.
-2. Big-O, Big-theta, Big-Ohmega Notations this includes time complexity and space complexity and also way to avoid tle error in program
+2. Big-O, Big-theta, Big-Ohmega Notations this includes time complexity and space complexity and also way to avoid tle error in program.
 3. Problem format
     - Problem statement
     - Input
