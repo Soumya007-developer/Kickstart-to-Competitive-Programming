@@ -18,8 +18,8 @@ You can also contribute by sharing!
     - Estimated complexity we require to build solution
 4. The approach for problem solving will strictly follow the following order:
      - Platforms
-        - Hackerblocks and Hackerrank
         - GeeksForGeeks (For previous year questions from various SWE Internships)
+        - Hackerrank & Hackerblocks
         - Codechef
         - ICPC Contests and prev. years US Olympiad problems(For better grasp on algoritms)
         - Coderforces(Div3>Div2..)
